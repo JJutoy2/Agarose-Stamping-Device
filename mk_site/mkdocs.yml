@@ -2,8 +2,5 @@ site_name: Agarose Stamping Method
 
 theme:
   name: readthedocs
-
-extra:
   analytics:
-    provider: google
-    property: G-36WLVX8956
+    gtag: G-36WLVX8956
