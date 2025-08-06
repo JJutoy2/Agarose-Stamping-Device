@@ -6,6 +6,5 @@
 jjutoy2@uic.edu
 
 # Todo:
-
-- [ ] Include .step files of features
+- [x] Include .step files of features - (In folder: [Stamp_CAD_Files])
 - [ ] Flesh out wiki
